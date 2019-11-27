@@ -9,12 +9,14 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     related link: None
 
-    writeup: None
-
     finished date: 2019
 
 * starctf2019-oob
 
     description: d8 basic pwn game, with oob vuln.
 
-    related link: [https://t.zsxq.com/VrrfyBm](https://t.zsxq.com/VrrfyBm)
+    writeup: [https://t.zsxq.com/VrrfyBm](https://t.zsxq.com/VrrfyBm)
+
+    related link: None
+
+    finished date: 2019
