@@ -9,7 +9,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     related link: None
 
-    writeup: 
+    writeup: None
 
     finished date: 2019
 
@@ -17,4 +17,4 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: d8 basic pwn game, with oob vuln.
 
-    related link: None
+    related link: [https://t.zsxq.com/VrrfyBm](https://t.zsxq.com/VrrfyBm)
