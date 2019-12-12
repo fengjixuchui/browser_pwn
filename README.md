@@ -27,6 +27,6 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     writeup: None
 
-    related link: None
+    related link: [https://t.zsxq.com/z7MzbYn](https://t.zsxq.com/z7MzbYn)
 
     finished date: 2019
