@@ -20,3 +20,13 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
     related link: None
 
     finished date: 2019
+
+* 数字经济-final-browser
+
+    description: callback of Object::ToNumber to form uaf and oob write.
+
+    writeup: None
+
+    related link: None
+
+    finished date: 2019
