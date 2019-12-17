@@ -35,7 +35,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: oob vuln in array.form
 
-    writeup: 
+    writeup: [https://t.zsxq.com/iybi2JE](https://t.zsxq.com/iybi2JE)
 
     related link: None
 
