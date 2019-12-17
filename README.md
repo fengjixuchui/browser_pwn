@@ -45,7 +45,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: a oob write vuln in array.prototype.map function, with abusing use of Symbol.species
 
-    writeup: None
+    writeup: [https://t.zsxq.com/6IufUBI](https://t.zsxq.com/6IufUBI)
 
     official link: [chromium commit](https://chromium.googlesource.com/v8/v8.git/+/192984ea88badc0c02e22e528b1243a9efa46f90)
 
