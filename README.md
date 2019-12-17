@@ -25,8 +25,19 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: callback of Object::ToNumber to form uaf and oob write.
 
-    writeup: None
+    writeup: [https://t.zsxq.com/z7MzbYn](https://t.zsxq.com/z7MzbYn)
 
-    related link: [https://t.zsxq.com/z7MzbYn](https://t.zsxq.com/z7MzbYn)
+    related link: None
 
     finished date: 2019
+
+* plaidctf2018-roll_a_d8
+
+    description: oob vuln in array.form
+
+    writeup: 
+
+    related link: None
+
+    finished date: 2019
+
