@@ -51,3 +51,13 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     finished date: 2019
 
+* cve-2018-17463
+
+    description: ObjectCreate's side effect annotation
+
+    writeup: None
+
+    official link: [chromium commit](https://chromium.googlesource.com/v8/v8.git/+/52a9e67a477bdb67ca893c25c145ef5191976220)
+
+    finished date: 2019
+
