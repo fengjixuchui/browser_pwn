@@ -55,9 +55,19 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: ObjectCreate's side effect annotation
 
-    writeup: None
+    writeup: [https://t.zsxq.com/ynUvNni](https://t.zsxq.com/ynUvNni)
 
     official link: [chromium commit](https://chromium.googlesource.com/v8/v8.git/+/52a9e67a477bdb67ca893c25c145ef5191976220)
 
-    finished date: 2019
+    finished date: 2020.01.06
+
+* 34c3ctf-v9
+
+    description: exp for v9 in 34c3ctf, bug in redundancy-elimination
+
+    writeup: 
+
+    official link: [v9](https://github.com/saelo/v9)
+
+    finished date: 2020.01.12
 
