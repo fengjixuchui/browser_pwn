@@ -65,7 +65,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: exp for v9 in 34c3ctf, bug in redundancy-elimination
 
-    writeup: 
+    writeup: [https://t.zsxq.com/jqv3JEE](https://t.zsxq.com/jqv3JEE)
 
     official link: [v9](https://github.com/saelo/v9)
 
