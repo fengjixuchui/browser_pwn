@@ -75,7 +75,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: exp for krautflare in 34c3ctf, bug in type optimization
 
-    writeup: None
+    writeup: [https://t.zsxq.com/3ZRFEIi](https://t.zsxq.com/3ZRFEIi)
 
     official link: [Issue 1710: Chrome: V8: incorrect type information on Math.expm1](https://bugs.chromium.org/p/project-zero/issues/detail?id=1710)
 
