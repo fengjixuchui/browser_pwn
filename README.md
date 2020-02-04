@@ -81,3 +81,13 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     finished date: 2020.01.25
 
+* google-ctf2018-final-just-in-time
+
+    description: exp for just in time game in google ctf 2018 final, bug in type optimization, with the characteristic of Number.MAX_SAFE_INTEGER.
+
+    writeup: None
+
+    official link: [pwn-just-in-time](https://github.com/google/google-ctf/tree/master/2018/finals/pwn-just-in-time)
+
+    finished date: 2020.02.04
+
