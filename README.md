@@ -85,7 +85,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: exp for just in time game in google ctf 2018 final, bug in type optimization, with the characteristic of Number.MAX_SAFE_INTEGER.
 
-    writeup: None
+    writeup: [https://t.zsxq.com/JMnUFyV](https://t.zsxq.com/JMnUFyV)
 
     official link: [pwn-just-in-time](https://github.com/google/google-ctf/tree/master/2018/finals/pwn-just-in-time)
 
