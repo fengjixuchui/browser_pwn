@@ -91,3 +91,13 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     finished date: 2020.02.04
 
+* qwb2019-final-groupupjs
+
+    description: exp for qwb 2019 final groupupjs, oob bug in kUint32LessThan.
+
+    writeup: None
+
+    official link: None
+
+    finished date: 2020.02.08
+
