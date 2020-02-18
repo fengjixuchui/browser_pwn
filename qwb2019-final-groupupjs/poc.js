@@ -11,10 +11,8 @@
 function foo(x)
 {
     let a = [1.1, 2.2, 3.3, 4.4, 5.5, 6.6];
-    //let tmp = {escapeVal: a.length}; // bypass load elimination with escape analysis
-    //idx = tmp.escapeVal;
-    let idx = (x=="foo")?6:2;
-    return a[idx]; // oob read
+    let tmp = {escapeVal: a.length}; // bypass load elimination with escape analysis
+    return a[tmp.escapeVal]; // oob read
 }
 
 console.log(foo(""));

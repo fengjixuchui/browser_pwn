@@ -95,9 +95,18 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: exp for qwb 2019 final groupupjs, oob bug in kUint32LessThan.
 
-    writeup: None
+    writeup: [https://t.zsxq.com/3jaaieI](https://t.zsxq.com/3jaaieI)
 
     official link: None
 
     finished date: 2020.02.08
 
+* cve-2016-5168
+
+    description: invalidate stable map assumption for globals on creankshaft, exploit with `null String` object
+
+    writeup: None
+
+    official link: None
+
+    finished date: 2020.02.18
