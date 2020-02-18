@@ -95,7 +95,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: exp for qwb 2019 final groupupjs, oob bug in kUint32LessThan.
 
-    writeup: None
+    writeup: [https://t.zsxq.com/3jaaieI](https://t.zsxq.com/3jaaieI)
 
     official link: None
 
