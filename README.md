@@ -105,8 +105,18 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: invalidate stable map assumption for globals on creankshaft, exploit with `null String` object
 
-    writeup: None
+    writeup: [https://t.zsxq.com/bey3NjI](https://t.zsxq.com/bey3NjI)
 
-    official link: None
+    official link: [Fix](https://chromium.googlesource.com/v8/v8/+/2bd7464ec1efc9eb24a38f7400119a5f2257f6e6)
 
     finished date: 2020.02.18
+
+* cve-2017-5070
+
+    description: invalid side effection judge for global value.
+
+    writeup: None
+
+    official link: [issue](https://bugs.chromium.org/p/chromium/issues/detail?id=722756)
+
+    finished date: 2020.02.24
