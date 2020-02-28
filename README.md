@@ -125,7 +125,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: JSCreate can have side effects, bug in receiver maps inference.
 
-    writeup: None
+    writeup: [browser-pwn cve-2020-6418漏洞分析](https://ray-cp.github.io/archivers/browser-pwn-cve-2020-6418%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90)
 
     official link: [commit](https://chromium.googlesource.com/v8/v8/+/fb0a60e15695466621cf65932f9152935d859447)
 
