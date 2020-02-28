@@ -120,3 +120,13 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
     official link: [issue](https://bugs.chromium.org/p/chromium/issues/detail?id=722756)
 
     finished date: 2020.02.24
+
+* cve-2020-6418
+
+    description: JSCreate can have side effects, bug in receiver maps inference.
+
+    writeup: None
+
+    official link: [commit](https://chromium.googlesource.com/v8/v8/+/fb0a60e15695466621cf65932f9152935d859447)
+
+    finished date: 2020.02.28
