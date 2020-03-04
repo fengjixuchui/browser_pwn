@@ -19,8 +19,6 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     related link: None
 
-    finished date: 2019
-
 * 数字经济-final-browser
 
     description: callback of Object::ToNumber to form uaf and oob write.
@@ -59,7 +57,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     official link: [chromium commit](https://chromium.googlesource.com/v8/v8.git/+/52a9e67a477bdb67ca893c25c145ef5191976220)
 
-    finished date: 2020.01.06
+    finished date: 2020
 
 * 34c3ctf-v9
 
@@ -69,7 +67,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     official link: [v9](https://github.com/saelo/v9)
 
-    finished date: 2020.01.12
+    finished date: 2020
 
 * 35c3ctf-krautflare
 
@@ -79,7 +77,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     official link: [Issue 1710: Chrome: V8: incorrect type information on Math.expm1](https://bugs.chromium.org/p/project-zero/issues/detail?id=1710)
 
-    finished date: 2020.01.25
+    finished date: 2020
 
 * google-ctf2018-final-just-in-time
 
@@ -89,7 +87,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     official link: [pwn-just-in-time](https://github.com/google/google-ctf/tree/master/2018/finals/pwn-just-in-time)
 
-    finished date: 2020.02.04
+    finished date: 2020
 
 * qwb2019-final-groupupjs
 
@@ -99,7 +97,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     official link: None
 
-    finished date: 2020.02.08
+    finished date: 2020
 
 * cve-2016-5168
 
@@ -109,7 +107,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     official link: [Fix](https://chromium.googlesource.com/v8/v8/+/2bd7464ec1efc9eb24a38f7400119a5f2257f6e6)
 
-    finished date: 2020.02.18
+    finished date: 2020
 
 * cve-2017-5070
 
@@ -119,7 +117,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     official link: [issue](https://bugs.chromium.org/p/chromium/issues/detail?id=722756)
 
-    finished date: 2020.02.24
+    finished date: 2020
 
 * cve-2020-6418
 
@@ -129,4 +127,4 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     official link: [commit](https://chromium.googlesource.com/v8/v8/+/fb0a60e15695466621cf65932f9152935d859447)
 
-    finished date: 2020.02.28
+    finished date: 2020
