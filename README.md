@@ -1,8 +1,6 @@
 # browser_pwn
 browser pwn, main work now.
 
-writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and then on my [blog](http://ray-cp.github.io/) after a while.
-
 * browser_pwn_basic_knowledge
 
     description: some basic knowledge and scripts of browser pwn.
@@ -15,7 +13,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: d8 basic pwn game, with oob vuln.
 
-    writeup: [https://t.zsxq.com/VrrfyBm](https://t.zsxq.com/VrrfyBm)
+    writeup: None
 
     related link: None
 
@@ -23,7 +21,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: callback of Object::ToNumber to form uaf and oob write.
 
-    writeup: [https://t.zsxq.com/z7MzbYn](https://t.zsxq.com/z7MzbYn)
+    writeup: None
 
     related link: None
 
@@ -33,7 +31,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: oob vuln in array.form
 
-    writeup: [https://t.zsxq.com/iybi2JE](https://t.zsxq.com/iybi2JE)
+    writeup: None
 
     related link: [chromium commit](https://chromium.googlesource.com/v8/v8.git/+/b5da57a06de8791693c248b7aafc734861a3785d)
 
@@ -43,7 +41,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: a oob write vuln in array.prototype.map function, with abusing use of Symbol.species
 
-    writeup: [https://t.zsxq.com/6IufUBI](https://t.zsxq.com/6IufUBI)
+    writeup: None
 
     official link: [chromium commit](https://chromium.googlesource.com/v8/v8.git/+/192984ea88badc0c02e22e528b1243a9efa46f90)
 
@@ -53,7 +51,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: ObjectCreate's side effect annotation
 
-    writeup: [https://t.zsxq.com/ynUvNni](https://t.zsxq.com/ynUvNni)
+    writeup: None
 
     official link: [chromium commit](https://chromium.googlesource.com/v8/v8.git/+/52a9e67a477bdb67ca893c25c145ef5191976220)
 
@@ -63,7 +61,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: exp for v9 in 34c3ctf, bug in redundancy-elimination
 
-    writeup: [https://t.zsxq.com/jqv3JEE](https://t.zsxq.com/jqv3JEE)
+    writeup: None
 
     official link: [v9](https://github.com/saelo/v9)
 
@@ -73,7 +71,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: exp for krautflare in 34c3ctf, bug in type optimization
 
-    writeup: [https://t.zsxq.com/3ZRFEIi](https://t.zsxq.com/3ZRFEIi)
+    writeup: None
 
     official link: [Issue 1710: Chrome: V8: incorrect type information on Math.expm1](https://bugs.chromium.org/p/project-zero/issues/detail?id=1710)
 
@@ -83,7 +81,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: exp for just in time game in google ctf 2018 final, bug in type optimization, with the characteristic of Number.MAX_SAFE_INTEGER.
 
-    writeup: [https://t.zsxq.com/JMnUFyV](https://t.zsxq.com/JMnUFyV)
+    writeup: None
 
     official link: [pwn-just-in-time](https://github.com/google/google-ctf/tree/master/2018/finals/pwn-just-in-time)
 
@@ -93,7 +91,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: exp for qwb 2019 final groupupjs, oob bug in kUint32LessThan.
 
-    writeup: [https://t.zsxq.com/3jaaieI](https://t.zsxq.com/3jaaieI)
+    writeup: None
 
     official link: None
 
@@ -103,7 +101,7 @@ writeup will be published on [zxsq](https://t.zsxq.com/zby76AE) at first, and th
 
     description: invalidate stable map assumption for globals on creankshaft, exploit with `null String` object
 
-    writeup: [https://t.zsxq.com/bey3NjI](https://t.zsxq.com/bey3NjI)
+    writeup: None
 
     official link: [Fix](https://chromium.googlesource.com/v8/v8/+/2bd7464ec1efc9eb24a38f7400119a5f2257f6e6)
 
