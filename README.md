@@ -140,3 +140,13 @@ browser pwn, main work now.
 
     finished date: 2020
 
+* Issue 913296
+
+    description: wrong typing of SpeculativeSafeIntegerSubtract, just a poc, failed to build exploit.
+
+    writeup: None
+
+    official link: [commit-913296](https://chromium.googlesource.com/v8/v8/+/413c2e787197063abd8435d9692355eb8693ad39)
+
+    finished date: 2020
+
