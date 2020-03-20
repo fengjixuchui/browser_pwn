@@ -126,3 +126,27 @@ browser pwn, main work now.
     official link: [commit](https://chromium.googlesource.com/v8/v8/+/fb0a60e15695466621cf65932f9152935d859447)
 
     finished date: 2020
+
+* Issue 762874
+
+    description: The Typer put the wrong type on String.indexOf and String.lastIndexOf builtins, with an off by one on the upper bound. exploit it on version 6.3 and 7.4
+
+    writeup: None
+
+    official link: [commit-762874](https://chromium.googlesource.com/v8/v8.git/+/b8f144ec4fd1cd808f0d883668f355498b56d7fa)
+    
+    [commit-7bb6dc0e06fa158df508bc8997f0fce4e33512a5](https://chromium.googlesource.com/v8/v8.git/+/7bb6dc0e06fa158df508bc8997f0fce4e33512a5)
+
+
+    finished date: 2020
+
+* Issue 913296
+
+    description: wrong typing of SpeculativeSafeIntegerSubtract, just a poc, failed to build exploit.
+
+    writeup: None
+
+    official link: [commit-913296](https://chromium.googlesource.com/v8/v8/+/413c2e787197063abd8435d9692355eb8693ad39)
+
+    finished date: 2020
+
