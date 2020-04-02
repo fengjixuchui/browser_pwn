@@ -150,3 +150,13 @@ browser pwn, main work now.
 
     finished date: 2020
 
+* cve-2019-5782
+
+    description: wrong typing of ArgumentsLength, easy to exploit.
+
+    writeup: None
+
+    official link: [commit-8e4588915ba7a9d9d744075781cea114d49f0c7b](https://chromium.googlesource.com/v8/v8/+/8e4588915ba7a9d9d744075781cea114d49f0c7b)
+
+    finished date: 2020
+
