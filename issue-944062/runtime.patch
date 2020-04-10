@@ -1,0 +1,37 @@
+diff --git a/src/runtime/runtime-test.cc b/src/runtime/runtime-test.cc
+index 09432556aa..4e881ff8f5 100644
+--- a/src/runtime/runtime-test.cc
++++ b/src/runtime/runtime-test.cc
+@@ -629,6 +629,19 @@ RUNTIME_FUNCTION(Runtime_SetAllocationTimeout) {
+ }
+ 
+ 
++RUNTIME_FUNCTION(Runtime_AddrOf) {
++  HandleScope scope(isolate);
++  CONVERT_ARG_CHECKED(Object, o, 0);
++  return *BigInt::FromUint64(isolate, reinterpret_cast<uint64_t>(o.ptr()));
++}
++
++RUNTIME_FUNCTION(Runtime_PtrAt) {
++  HandleScope scope(isolate);
++  CONVERT_ARG_CHECKED(BigInt, bigint, 0);
++  uint64_t *addr = reinterpret_cast<uint64_t*>(bigint.AsUint64());
++  return *BigInt::FromUint64(isolate, *addr);
++}
++
+ RUNTIME_FUNCTION(Runtime_DebugPrint) {
+   SealHandleScope shs(isolate);
+   DCHECK_EQ(1, args.length());
+diff --git a/src/runtime/runtime.h b/src/runtime/runtime.h
+index 42ac1ddefd..2c98b9989b 100644
+--- a/src/runtime/runtime.h
++++ b/src/runtime/runtime.h
+@@ -441,6 +441,8 @@ namespace internal {
+   F(ConstructSlicedString, 2, 1)              \
+   F(ConstructDouble, 2, 1)                    \
+   F(DebugPrint, 1, 1)                         \
++  F(AddrOf, 1, 1)                             \
++  F(PtrAt, 1, 1)                              \
+   F(DebugTrace, 0, 1)                         \
+   F(DebugTrackRetainingPath, -1, 1)           \
+   F(DeoptimizeFunction, 1, 1)                 \

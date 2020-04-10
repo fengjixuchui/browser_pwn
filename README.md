@@ -160,3 +160,13 @@ browser pwn, main work now.
 
     finished date: 2020
 
+* issue-944062
+
+    description: missing map checks in the reducer of `array.indexOf` and `array.includes`.
+
+    writeup: None
+
+    official link: [commit-e80082bf549aa26d6e30f114a23a05df9c510849](https://chromium.googlesource.com/v8/v8.git/+/e80082bf549aa26d6e30f114a23a05df9c510849)
+
+    finished date: 2020
+
