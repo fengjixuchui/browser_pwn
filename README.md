@@ -170,3 +170,14 @@ browser pwn, main work now.
 
     finished date: 2020
 
+
+* issue-746946
+
+    description: error generate elements kind transitions from stable maps..
+
+    writeup: None
+
+    official link: [commit-ea55b873f2ed8336604540a532cbd460eeb66430](https://chromium.googlesource.com/v8/v8/+/ea55b873f2ed8336604540a532cbd460eeb66430)
+
+    finished date: 2020
+
