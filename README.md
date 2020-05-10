@@ -181,3 +181,13 @@ browser pwn, main work now.
 
     finished date: 2020
 
+* rwctf2019-Accessible
+
+    description: deleting the FieldTypeDependency of property access cuases the vuln
+
+    writeup: None
+
+    official link: None
+
+    finished date: 2020
+

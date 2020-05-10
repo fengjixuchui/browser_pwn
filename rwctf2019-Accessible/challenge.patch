@@ -1,0 +1,35 @@
+diff --git a/src/compiler/access-info.cc b/src/compiler/access-info.cc
+index 0744138..1df06df 100644
+--- a/src/compiler/access-info.cc
++++ b/src/compiler/access-info.cc
+@@ -370,9 +370,11 @@ PropertyAccessInfo AccessInfoFactory::ComputeDataFieldAccessInfo(
+       // The field type was cleared by the GC, so we don't know anything
+       // about the contents now.
+     }
++#if 0
+     unrecorded_dependencies.push_back(
+         dependencies()->FieldRepresentationDependencyOffTheRecord(map_ref,
+                                                                   descriptor));
++#endif
+     if (descriptors_field_type->IsClass()) {
+       // Remember the field map, and try to infer a useful type.
+       Handle<Map> map(descriptors_field_type->AsClass(), isolate());
+@@ -384,15 +386,17 @@ PropertyAccessInfo AccessInfoFactory::ComputeDataFieldAccessInfo(
+   }
+   // TODO(turbofan): We may want to do this only depending on the use
+   // of the access info.
++#if 0
+   unrecorded_dependencies.push_back(
+       dependencies()->FieldTypeDependencyOffTheRecord(map_ref, descriptor));
++#endif
+
+   PropertyConstness constness;
+   if (details.IsReadOnly() && !details.IsConfigurable()) {
+     constness = PropertyConstness::kConst;
+   } else {
+     map_ref.SerializeOwnDescriptor(descriptor);
+-    constness = dependencies()->DependOnFieldConstness(map_ref, descriptor);
++    constness = PropertyConstness::kConst;
+   }
+   Handle<Map> field_owner_map(map->FindFieldOwner(isolate(), descriptor),
+                               isolate());
