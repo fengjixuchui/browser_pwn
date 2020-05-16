@@ -191,3 +191,13 @@ browser pwn, main work now.
 
     finished date: 2020
 
+* wctf2019-Independence_Day
+
+    description: patch compilation dependancy and no expose wasm problem
+
+    writeup: None
+
+    official link: [Independence Day (win)](https://drive.google.com/drive/folders/1IxYMgG6WWiwJoh8ARtq8Ary9CKrXHQhx)
+
+    finished date: 2020
+
