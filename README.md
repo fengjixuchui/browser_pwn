@@ -201,3 +201,15 @@ browser pwn, main work now.
 
     finished date: 2020
 
+* issue-941743
+
+    description: Array.prototype.map wrong ElementsKind for output array.
+
+    writeup: None
+
+    official link: [commit](https://chromium.googlesource.com/v8/v8/+/96de5eeba9b461a2d405dcfa448901c9582f3f07)
+
+    finished date: 2020
+
+
+
