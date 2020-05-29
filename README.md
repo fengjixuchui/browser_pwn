@@ -201,3 +201,25 @@ browser pwn, main work now.
 
     finished date: 2020
 
+* issue-941743
+
+    description: Array.prototype.map wrong ElementsKind for output array.
+
+    writeup: None
+
+    official link: [commit](https://chromium.googlesource.com/v8/v8/+/96de5eeba9b461a2d405dcfa448901c9582f3f07)
+
+    finished date: 2020
+
+* issue-799263
+
+    description: missing Kill transition-kind source map in load elimination.
+
+    writeup: None
+
+    official link: [commit](https://chromium.googlesource.com/v8/v8/+/6b30393536c44943076739e2eaf00f0a34c2d2c9)
+
+    finished date: 2020
+
+
+
