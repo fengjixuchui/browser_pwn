@@ -221,5 +221,15 @@ browser pwn, main work now.
 
     finished date: 2020
 
+* issue-1051017
+
+    description: Typer::TypeInductionVariablePhi bug.
+
+    writeup: None
+
+    official link: [commit](https://chromium.googlesource.com/v8/v8.git/+/a2e971c56d1c46f7c71ccaf33057057308cc8484^!/)
+
+    finished date: 2020
+
 
 
