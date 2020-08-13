@@ -22,6 +22,16 @@ jsc vuln that i debugged.
 
     finished date: 2020
 
+* 35c3ctf-Webkid
+
+    description: writeup for 35c3ctf-Webkid, insufficient implementation of `tryDeletePropertyQuickly`.
+
+    writeup: None
+
+    official link: [official-link](https://github.com/saelo/35c3ctf/tree/master/WebKid)
+
+    finished date: 2020
+
 
 
 
