@@ -30,6 +30,16 @@ jsc vuln that i debugged.
 
     official link: [official-link](https://github.com/saelo/35c3ctf/tree/master/WebKid)
 
+    finished date: 
+
+* cve-2018-4233
+
+    description: side effect of CreateThis in jsc DFG, it's a pity that i can't finished the exploit.
+
+    writeup: None
+
+    official link: [commit](https://github.com/WebKit/webkit/commit/b602e9d167b2c53ed96a42ed3ee611d237f5461a)
+
     finished date: 2020
 
 
