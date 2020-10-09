@@ -42,6 +42,16 @@ jsc vuln that i debugged.
 
     finished date: 2020
 
+* cve-2020-9802
+
+    description: missing ArithMode in ArithNegate.
+
+    writeup: [JITSploitation I: A JIT Bug](https://googleprojectzero.blogspot.com/2020/09/jitsploitation-one.html)
+
+    official link: [commit](https://github.com/WebKit/webkit/commit/951d27d5ba08b6c29370b05dc6b4ffe18be1ca18)
+
+    finished date: 2020
+
 
 
 
